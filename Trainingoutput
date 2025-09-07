@@ -1,0 +1,78 @@
+
+--- Round 0 ---
+Accuracy: 71.39% | Time: 204.31s
+
+--- Round 1 ---
+Accuracy: 87.45% | Time: 198.81s
+
+--- Round 2 ---
+Accuracy: 93.87% | Time: 196.54s
+
+--- Round 3 ---
+Accuracy: 92.86% | Time: 197.83s
+
+--- Round 4 ---
+Accuracy: 93.68% | Time: 200.47s
+
+--- Round 5 ---
+Optimal number of clusters: 2
+Accuracy: 94.49% | Time: 200.46s
+
+--- Round 6 ---
+Optimal number of clusters: 2
+Accuracy: 94.69% | Time: 200.48s
+
+--- Round 7 ---
+Optimal number of clusters: 2
+Accuracy: 95.33% | Time: 200.34s
+
+--- Round 8 ---
+Optimal number of clusters: 2
+Accuracy: 96.11% | Time: 200.13s
+
+--- Round 9 ---
+Optimal number of clusters: 2
+Accuracy: 95.84% | Time: 199.69s
+
+--- Round 10 ---
+Optimal number of clusters: 2
+Accuracy: 94.26% | Time: 288.81s
+
+--- Round 11 ---
+Optimal number of clusters: 2
+Accuracy: 95.54% | Time: 288.26s
+
+--- Round 12 ---
+Optimal number of clusters: 2
+Accuracy: 96.77% | Time: 288.28s
+
+--- Round 13 ---
+Optimal number of clusters: 2
+Accuracy: 96.20% | Time: 287.94s
+
+--- Round 14 ---
+Optimal number of clusters: 2
+Accuracy: 95.46% | Time: 289.63s
+
+--- Round 15 ---
+Optimal number of clusters: 2
+Accuracy: 95.60% | Time: 287.12s
+
+--- Round 16 ---
+Optimal number of clusters: 2
+Accuracy: 93.57% | Time: 286.58s
+
+--- Round 17 ---
+Optimal number of clusters: 2
+Accuracy: 96.84% | Time: 283.56s
+
+--- Round 18 ---
+Optimal number of clusters: 2
+Accuracy: 94.96% | Time: 286.03s
+
+--- Round 19 ---
+Optimal number of clusters: 2
+Accuracy: 97.44% | Time: 283.91s
+
+      Method         Accuracy (%) ± std
+ OurModel_Improved       93.62 ± 5.49
